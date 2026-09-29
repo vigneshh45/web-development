@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 30px;
+}
+
+.hero {
+    height: 800px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: black;
+    background-image: url('https://www.w3schools.com/w3images/architect.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
